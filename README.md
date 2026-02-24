@@ -17,5 +17,5 @@
 
 ---
 
-## 📫 Contact
+## Contact
 Discord: `wiat.im_confused` (project-related inquiries only)
