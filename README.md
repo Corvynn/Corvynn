@@ -11,7 +11,7 @@
 - **Minecraft:** I create datapacks... sometimes. 
 - **Python:** I enjoy it (even if I can barely write a functional script).
 - **Current Status:** Doing absolutely nothing.
-
+- **Other:** Pfp by [Du Zaniol](https://unsplash.com/@duzaniol) via Unsplash (**PLEASE** check them out, I love their work)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Minecraft-Datapacks-5C913B?style=for-the-badge&logo=minecraft&logoColor=white"/>
