@@ -8,7 +8,7 @@
 
 ##  About Me
 - **Pronouns:** She/Her  
-- **Minecraft:** I create datapacks... sometimes.  
+- **Minecraft:** I create datapacks... sometimes. 
 - **Python:** I enjoy it (even if I can barely write a functional script).
 - **Current Status:** Doing absolutely nothing.
 
@@ -19,11 +19,11 @@
 
 ---
 
-## 📞 Contact
+## Contact
 - **Discord:** `wiat.im_confused` (*Please keep messages to project-related stuff!*)
 
 ---
 
-<p align="center">
+<p align="">
   <img src="https://komarev.com/ghpvc/?username=Corvynn&label=Profile%20Views&color=5C913B&style=flat-square" alt="Profile Views" />
 </p>
