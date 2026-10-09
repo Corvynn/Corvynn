@@ -24,6 +24,6 @@
 
 ---
 
-<p align="">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Corvynn&label=Profile%20Views&color=5C913B&style=flat-square" alt="Profile Views" />
 </p>
